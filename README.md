@@ -1,4 +1,4 @@
-# SaaS Website Builder, Project Management And Dashboard With Stripe using Nextjs14, Bun, Stripe Connect, Prisma, MySQL, Tailwind
+<!-- # SaaS Website Builder, Project Management And Dashboard With Stripe using Nextjs14, Bun, Stripe Connect, Prisma, MySQL, Tailwind
 
 License: [Purchase your license from here to use this project for commercial use](https://webprodigies.com/codelicense)
 
@@ -8,13 +8,13 @@ License: [Purchase your license from here to use this project for commercial use
 |------------|------|
 | [Full Video](https://youtu.be/6omuUOZcWL0) | [Demo](https://webprodigies.com/demo) |
 
-## ✨ Private Web design / development FREELANCE Community 
-Join the Community if you want to learn how to make money this year with websites! 
+## ✨ Private Web design / development FREELANCE Community
+Join the Community if you want to learn how to make money this year with websites!
 FREE access Limited spots only!!!
 [Link - Private Community](https://webprodigies.com/communities)
 
 ## Get all the help you need
-Share all bugs and solutions in the discord. Would love to collaborate and get to know talented developers like yourself. 
+Share all bugs and solutions in the discord. Would love to collaborate and get to know talented developers like yourself.
 [Discord](https://discord.gg/GG4wJkxh)
 
 ## SaaS Notion Clone with Realtime cursors, Nextjs 13, Stripe, Drizzle ORM, Tailwind, Supabase, Sockets
@@ -49,4 +49,4 @@ Share all bugs and solutions in the discord. Would love to collaborate and get t
 [ibelick](https://bg.ibelick.com/)
 
 ## Shadcn UI Theme creator
-[Link To Website](https://gradient.page/tools/shadcn-ui-theme-generator)
+[Link To Website](https://gradient.page/tools/shadcn-ui-theme-generator) -->
